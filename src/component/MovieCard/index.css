@@ -1,0 +1,30 @@
+.movie-card-img {
+  width: 100%;
+  max-width: 230px;
+  height: 280px;
+  align-self: center;
+  
+}
+
+.movie-title {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #032541;
+}
+
+.rating {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #83cca6;
+}
+
+.view-detail-btn {
+  margin-bottom: 15px;
+  background-color: rgb(80, 80, 243);
+  border-radius: 5px;
+  color: #ffffff;
+  padding: 5px;
+  border: 1px solid #ffffff;
+}
