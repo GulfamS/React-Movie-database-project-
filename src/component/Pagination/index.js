@@ -44,7 +44,7 @@ class Pagination extends React.Component {
 
   render() {
     const {pageNo} = this.state
-    const {totalPages} = this.props
+    // const {totalPages} = this.props
 
     return (
       <div className="page-container">
